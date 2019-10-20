@@ -1,0 +1,17 @@
+.eric6project/
+.ropeproject/
+.directory/
+tags
+*.pyc
+*.pyo
+*.orig
+*.bak
+*.rej
+*.swp
+*~
+cur/
+tmp/
+__pycache__/
+venv/
+files/
+*.DS_Store

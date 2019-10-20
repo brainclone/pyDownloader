@@ -1,0 +1,2 @@
+This use python module wget to download a file from a website. This module at the time (2019/08) does not
+support authentication/session, for which please check out requests module (urllib3).
